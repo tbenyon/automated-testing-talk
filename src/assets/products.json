@@ -1,5 +1,18 @@
 [
   {
+    "id": 0,
+    "title": "Encouragement",
+    "image": "https://picsum.photos/id/23/400/300",
+    "description": "A pat on the back (literally)",
+    "price": 0,
+    "purchased": true,
+    "cycle": "null",
+    "type": "onetime",
+    "duration": 0,
+    "discount": null,
+    "order": 0
+  },
+  {
     "id": 1,
     "title": "Monthly Membership",
     "image": "https://picsum.photos/id/0/400/300",
@@ -15,7 +28,7 @@
   {
     "id": 2,
     "title": "Yearly Membership",
-    "image": "https://picsum.photos/id/1/400/300",
+    "image": "https://picsum.photos/id/54/400/300",
     "description": "Yearly membership to MyPTHub",
     "price": 120000,
     "purchased": false,
