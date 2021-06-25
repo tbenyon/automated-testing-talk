@@ -6,8 +6,8 @@
     <div class="product-aspect-ratio-container">
       <div class="product">
         <div class="product-inner-container">
-          <div class="corner-ribbon">
-            ???
+          <div v-if="product.price === 0" class="corner-ribbon" data-mpth-test-id="offer-ribbon">
+            Free
           </div>
           <img class="key-photo" :src="product.image" :alt="product.title" />
           <div class="details-container">

@@ -63,5 +63,18 @@ export default [
     "duration": null,
     "discount": "100%",
     "order": 4
+  },
+  {
+    "id": 6,
+    "title": "Access to free stuff",
+    "image": "https://picsum.photos/id/153/400/300",
+    "description": "Free stuff",
+    "price": 0,
+    "purchased": true,
+    "cycle": null,
+    "type": "onetime",
+    "duration": null,
+    "discount": "100%",
+    "order": 4
   }
 ]
